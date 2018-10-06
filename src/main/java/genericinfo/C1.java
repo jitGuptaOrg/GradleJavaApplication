@@ -1,4 +1,4 @@
-package com.javapath.genericinfo;
+package genericinfo;
 
 public class C1 extends A1 {
 

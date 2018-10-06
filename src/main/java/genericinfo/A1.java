@@ -1,4 +1,4 @@
-package com.javapath.genericinfo;
+package genericinfo;
 
 public class A1 {
 	private static int privateMember = 1;

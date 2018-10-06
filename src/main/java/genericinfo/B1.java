@@ -1,6 +1,6 @@
-package com.javapath.genericinfo;
+package genericinfo;
 
-import com.javapath.genericinforgain.C2;
+import genericinforgain.C2;
 
 public class B1 {
 
@@ -10,12 +10,11 @@ public class B1 {
 		
 		System.out.println(A1.protectedMember);
 		System.out.println(C1.protectedMember);
-		System.out.println(C2.protectedMember);
+		
 		
 		
 		System.out.println(A1.publicMember);
 		System.out.println(C1.publicMember);
-		System.out.println(C2.publicMember);
 		
 
 

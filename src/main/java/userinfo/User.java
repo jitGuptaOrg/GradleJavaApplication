@@ -1,4 +1,4 @@
-package com.javapath.userinfo;
+package userinfo;
 
 public class User {
 	
@@ -7,6 +7,7 @@ public class User {
 	public void printUserType(){
 		
 		System.out.println("User");
+		System.out.println("user is in pringUserType");
 		
 	}
 	

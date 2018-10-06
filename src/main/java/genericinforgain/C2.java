@@ -1,7 +1,7 @@
-package com.javapath.genericinforgain;
+package genericinforgain;
 
 
-import com.javapath.genericinfo.A1;;
+import genericinfo.A1;;
 
 public class C2 extends A1 {
 

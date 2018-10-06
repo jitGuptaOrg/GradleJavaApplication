@@ -1,4 +1,4 @@
-package com.javapath.userinfo;
+package userinfo;
 
 public class Editor extends Staff{
 	

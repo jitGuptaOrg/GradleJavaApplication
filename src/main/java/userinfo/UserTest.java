@@ -1,4 +1,4 @@
-package com.javapath.userinfo;
+package userinfo;
 
 import java.util.HashMap;
 
